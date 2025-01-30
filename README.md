@@ -1,20 +1,32 @@
-🔥 Telegram Member Scrapping Tool Available 🔥
+# 🔥 Telegram Member Scraping Tool 🔥  
 
-🔻It has unique features such as:
+A powerful **Telegram member scraping tool** designed to **extract users from private groups, hidden members lists, and restricted channels** while ensuring high-quality, active member filtering. Whether you need **private group data, hidden users, or active members only**, this tool delivers with precision and efficiency.  
 
-💎 Private groups scrapping
+---
 
-💎 Hidden members group scrapping
+## 🚀 Features  
 
-💎 Hidden members + private groups scrapping
+✅ **Private Group Scraping** – Extract members from invite-only and private Telegram groups.  
+✅ **Hidden Members Scraping** – Fetch users who are not visible in the public group list.  
+✅ **Hidden + Private Groups Scraping** – Combine both methods for maximum user extraction.  
+✅ **Active Members Only** – Filters out **inactive accounts and bots**, ensuring **high-quality** data.  
+✅ **Blacklist Admins & Moderators** – Excludes group admins and moderators from the results.  
+✅ **Restricted Channel Bypass** – Scrapes users from groups where messaging is disabled (e.g., [WadzPay Official](https://t.me/WadzPay_Official)).  
 
-💎 Only active members scrapping(not dead accounts or bots)
+---
 
-💎 It blacklist admins and moderators of group
+## 🎯 Why Use This Tool?  
 
-💎 Also groups that is not allowed to talk in like this: https://t.me/WadzPay_Official (this is most special one)
+✔️ **Extract real, high-quality members**  
+✔️ **Bypass visibility restrictions on Telegram**  
+✔️ **Avoid dead accounts, bots, and inactive users**  
+✔️ **Blacklist group admins & moderators automatically**  
+✔️ **Fully automated & easy to use**  
 
+---
 
-My bot can fetch users from these kind of groups. If you need, just let me know. @kthenurseone
+## 📺 Watch the Demo  
+▶️ **YouTube Video:** [Watch Now](https://youtu.be/O0ATpm5wbKM)  
 
-If you want to watch youtube video : https://youtu.be/O0ATpm5wbKM
+## 💡 Need This Tool?  
+📩 Contact [**@kthenurseone**](https://t.me/kthenurseone) on Telegram for more details.  
